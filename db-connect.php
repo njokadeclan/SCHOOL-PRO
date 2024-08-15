@@ -1,6 +1,6 @@
 <?php 
 // Hostname
-$host = "school-db.cdi6ms4egwbi.us-west-1.rds.amazonaws.com";
+$host = "school-test-db.cfcgomeoy6xy.us-east-2.rds.amazonaws.com";
 // Username
 $uname = "admin";
 // Password
